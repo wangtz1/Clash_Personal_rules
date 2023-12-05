@@ -1,10 +1,10 @@
 # 国内漏跑域名
-DOMAIN-SUFFIX,starryfrp.com,DIRECT
-DOMAIN-SUFFIX,todesk.com,DIRECT
-DOMAIN-SUFFIX,todesk.cn,DIRECT
-DOMAIN-SUFFIX,oray.com,DIRECT
-DOMAIN-SUFFIX,oray.cn,DIRECT
-DOMAIN-SUFFIX,oray.net,DIRECT
-DOMAIN-SUFFIX,orayimg.com,DIRECT
-DOMAIN-SUFFIX,raylink.live,DIRECT
-DOMAIN-SUFFIX,softether-network.net,DIRECT
+DOMAIN-SUFFIX,starryfrp.com
+DOMAIN-SUFFIX,todesk.com
+DOMAIN-SUFFIX,todesk.cn
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,oray.cn
+DOMAIN-SUFFIX,oray.net
+DOMAIN-SUFFIX,orayimg.com
+DOMAIN-SUFFIX,raylink.live
+DOMAIN-SUFFIX,softether-network.net
