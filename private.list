@@ -1,4 +1,6 @@
 # 国内漏跑域名
+
+#远程/内网穿透
 DOMAIN-SUFFIX,starryfrp.com
 DOMAIN-SUFFIX,todesk.com
 DOMAIN-SUFFIX,todesk.cn
@@ -7,7 +9,8 @@ DOMAIN-SUFFIX,oray.cn
 DOMAIN-SUFFIX,oray.net
 DOMAIN-SUFFIX,orayimg.com
 DOMAIN-SUFFIX,raylink.live
-DOMAIN-SUFFIX,uicp.hk
+
+DOMAIN-SUFFIX,cutefishos.com
 DOMAIN-SUFFIX,arubase.club
 DOMAIN-SUFFIX,cxncp.net
 DOMAIN-SUFFIX,ip4.ink
