@@ -38,7 +38,12 @@ DOMAIN-SUFFIX,gitee.com
 #Bing
 DOMAIN-SUFFIX,cn.mm.bing.net
 DOMIAN-SUFFIX,cn.bing.com
+
+#B站
+DOMAIN-SUFFIX,bilibili.cn
+DOMAIN-SUFFIX,bilibili.com
 #上述所有关键字过滤
+
 DOMAIN-KEYWORD,arubase
 DOMAIN-KEYWORD,oray
 DOMAIN-KEYWORD,todesk
