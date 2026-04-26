@@ -42,6 +42,10 @@ DOMIAN-SUFFIX,cn.bing.com
 #B站
 DOMAIN-SUFFIX,bilibili.cn
 DOMAIN-SUFFIX,bilibili.com
+
+#多邻国
+DOMAIN-SUFFIX,duolingo.cn
+
 #上述所有关键字过滤
 
 DOMAIN-KEYWORD,arubase
