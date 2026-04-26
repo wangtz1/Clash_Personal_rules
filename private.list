@@ -45,6 +45,8 @@ DOMAIN-SUFFIX,bilibili.com
 
 #多邻国
 DOMAIN-SUFFIX,duolingo.cn
+DOMAIN-SUFFIX,duolingo.com
+
 
 #上述所有关键字过滤
 
